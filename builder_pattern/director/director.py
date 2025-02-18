@@ -1,4 +1,4 @@
-from builder_pattern.pizza_builder import PizzaBuilder
+from .pizza_builder import PizzaBuilder
 
 
 class PizzaDirector:
