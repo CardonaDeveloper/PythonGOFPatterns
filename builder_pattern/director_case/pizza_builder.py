@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 
-from builder_pattern.pizza import Pizza
+from .pizza import Pizza
 
 
 class PizzaBuilder(ABC):
